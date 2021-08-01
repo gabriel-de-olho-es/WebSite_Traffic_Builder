@@ -2,7 +2,7 @@ import webbrowser
 import time
 
 count = 0
-urls = ['https://github.com/somj57/somj57/blob/master/README.md','https://github.com/somj57/somj57/blob/master/README.md','https://github.com/somj57/somj57/blob/master/README.md']
+urls = ['https:https://fagulha-animes.xyz']
 
 while count < 1000:
     for url in urls:
